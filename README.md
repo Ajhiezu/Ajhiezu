@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="160" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Ajhiezu and I'm a student from Politeknik Negeri Jember</h2>
+<h2 align="center">
+  Hi 👋 I'm Ajhiezu  
+  <br/>
+  <small>Fullstack Web & Mobile Developer</small>
+</h2>
 
 ###
 
@@ -66,6 +70,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/ajhiezu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+<a href="https://www.tiktok.com/@techpedia__" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/ajhiezu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
